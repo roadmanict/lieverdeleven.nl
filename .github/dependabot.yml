@@ -1,7 +1,10 @@
 version: 2
 updates:
-  # Configuration for Dockerfile
   - package-ecosystem: "gitsubmodule"
+    directory: "/"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "actions"
     directory: "/"
     schedule:
       interval: "daily"
