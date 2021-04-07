@@ -1,3 +1,42 @@
 [submodule "themes/cayman-hugo-theme"]
 	path = themes/cayman-hugo-theme
 	url = https://github.com/zwbetz-gh/cayman-hugo-theme.git
+[submodule "themes/parse-hugo"]
+	path = themes/parse-hugo
+	url = git@github.com:themefisher/parsa-hugo.git
+[submodule "themes/massively"]
+	path = themes/massively
+	url = git@github.com:curtistimson/hugo-theme-massively.git
+[submodule "themes/airspace"]
+	path = themes/airspace
+	url = git@github.com:themefisher/airspace-hugo.git
+[submodule "themes/ublogger"]
+	path = themes/ublogger
+	url = git@github.com:uPagge/uBlogger.git
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "themes/hugo-refresh"]
+	path = themes/hugo-refresh
+	url = https://github.com/PippoRJ/hugo-refresh.git
+[submodule "themes/mini"]
+	path = themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "themes/pico"]
+	path = themes/pico
+	url = https://github.com/negrel/hugo-theme-pico.git
+[submodule "themes/novela"]
+	path = themes/novela
+	url = git@github.com:forestryio/hugo-theme-novela.git
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git
+[submodule "themes/hugo-sugoi"]
+	path = themes/hugo-sugoi
+	url = https://github.com/aanupam23/hugo-sugoi.git
+[submodule "themes/vienna"]
+	path = themes/vienna
+	url = git@github.com:keichi/vienna.git
+[submodule "themes/kube"]
+	path = themes/kube
+	url = https://github.com/jeblister/kube.git
