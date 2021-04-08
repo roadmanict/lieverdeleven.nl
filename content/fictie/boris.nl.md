@@ -1,9 +1,12 @@
 ---
-title: "Boris"
+title: Boris
+description: Bro bro
 date: 2021-03-21
 draft: false
 
-tags: [fictie]
+types: [fictie]
+
+featured_image: /images/boris.jpg
 ---
 
 Acht weken na hun geboorte ging de kamerdeur open. Twee heel nieuwe mensen kwamen het huis binnen. Ze brachten nieuwe geuren met zich mee. Hij dacht eten en iets nieuws. Spannend rook het. Nieuw.

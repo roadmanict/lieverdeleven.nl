@@ -40,3 +40,15 @@
 [submodule "themes/kube"]
 	path = themes/kube
 	url = https://github.com/jeblister/kube.git
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://github.com/your-identity/hugo-theme-dimension.git
+[submodule "themes/hugo-coder-portfolio"]
+	path = themes/hugo-coder-portfolio
+	url = https://github.com/naro143/hugo-coder-portfolio
+[submodule "themes/forty"]
+	path = themes/forty
+	url = https://github.com/MarcusVirg/forty
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git

@@ -2,7 +2,7 @@
 title: "Het Grote Handboek der Psychische Problemen en Beperkingen (5)"
 date: 2018-08-16
 draft: false
-tags: [blog]
+types: [blog]
 ---
 
 Gister schreef ik dat ik er van overtuigd ben dat als ik open ben over mijn depressie, depressie en psychische problemen normaler worden om over te praten. Ik snap natuurlijk dat een depressie in de basis niet normaal is om te hebben. Maar toch: volgens het Trimbos instituut krijgt bijna 20% van de volwassen tussen 18 en 64 jaar ooit in hun leven te maken met een depressie. Dat zijn 546.500 mensen per jaar! (Trimbos instituut, 2018)

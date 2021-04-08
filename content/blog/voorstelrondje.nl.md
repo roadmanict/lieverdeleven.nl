@@ -2,6 +2,7 @@
 title: "Voorstelrondje"
 date: 2018-04-05
 draft: false
+types: [blog]
 ---
 
 Ik ben Renée en ik ben tweeëndertig. De afgelopen jaren heb ik zelf te maken gehad met terugkerende depressies. Het heeft mij altijd geholpen om daar over te schrijven. Het hielp een beetje voor mezelf, maar ik ben er ook  van overtuigd dat als ik zelf open ben over mijn ervaringen met depressie, dat depressie en psychische problemen normaler worden om over te praten. Als het delen van mijn verhaal er voor zorgt dat er ook maar één depressief (of niet depressief, ik ben niet kieskeurig) persoon is die zich heel eventjes een heel klein beetje beter voelt, is mijn missie wat mij betreft geslaagd. Omdat het gevoel hebben alleen te staan in je ellende nog nooit iemand beter heeft gemaakt.

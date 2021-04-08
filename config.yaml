@@ -1,30 +1,23 @@
 baseurl: https://www.lieverdeleven.nl
 title: Liever de leven
-theme: kube
+theme: ananke
 uglyURLs: true
 
-summaryLength: 20
-paginate: 6
+defaultContentLanguage: nl
 
 taxonomies:
-  tag: tags
+  type: types
 
-params:
-  author: Renee Trentelman
-  description: Personal blog theme powered by Hugo
-  herotitle: An Ultra Minimal theme!
-  herolink: https://github.com/aanupam23/hugo-sugoi
-  herolinktext: Check Now
-  contact: Send me a message and I will get back as soon as possible.
+SectionPagesMenu: main
 
-menu:
-  main:
-    - url: /
-      name: Home
-      weight: 1
-    - url: /blog.html
-      name: Blog
-      weight: 2
-    - url: /fictie.html
-      name: Fictie
-      weight: 2
+# menu:
+#   main:
+#     - url: /
+#       name: Home
+#       weight: 1
+#     - url: /blog.html
+#       name: Blog
+#       weight: 2
+#     - url: /fictie.html
+#       name: Fictie
+#       weight: 2
