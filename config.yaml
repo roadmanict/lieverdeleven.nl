@@ -10,14 +10,6 @@ taxonomies:
 
 SectionPagesMenu: main
 
-# menu:
-#   main:
-#     - url: /
-#       name: Home
-#       weight: 1
-#     - url: /blog.html
-#       name: Blog
-#       weight: 2
-#     - url: /fictie.html
-#       name: Fictie
-#       weight: 2
+params:
+  featured_image: /images/bg.jpg
+  disable_share: true

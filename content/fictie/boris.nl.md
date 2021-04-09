@@ -7,6 +7,7 @@ draft: false
 types: [fictie]
 
 featured_image: /images/boris.jpg
+disable_share: true
 ---
 
 Acht weken na hun geboorte ging de kamerdeur open. Twee heel nieuwe mensen kwamen het huis binnen. Ze brachten nieuwe geuren met zich mee. Hij dacht eten en iets nieuws. Spannend rook het. Nieuw.
