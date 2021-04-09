@@ -40,3 +40,4 @@ tags
 # Coc configuration directory
 .vim
 .DS_Store
+.idea/
