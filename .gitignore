@@ -41,3 +41,4 @@ tags
 .vim
 .DS_Store
 .idea/
+bin/
