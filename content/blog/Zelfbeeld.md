@@ -1,10 +1,10 @@
-```yaml
+---
 title: "test 1"
 date: 2021-03-21
 draft: true
 types: [blog]
 disable_share: true
-```
+---
 
 In 2018 schreef ik het volgende stukje. Ik was toen net begonnen met mijn toenmalige blog en het was het eerste stuk dat ik schreef. Ik las het in 2021 weer terug en het voelde nog steeds relevant. Daarom hier nog een keer: mijn stukje over *zelfbeeld*.
 
