@@ -6,6 +6,4 @@ draft: false
 disable_share: true
 ---
 
-Creatieve verzinsels van Renee.
-
-Blablablab
+Welkom op mijn fictie-pagina. De afgelopen tijd heb ik gewerkt aan een idee voor een boek. Op deze pagina kun je binnenkort vast een aantal hoofdstukken lezen.
