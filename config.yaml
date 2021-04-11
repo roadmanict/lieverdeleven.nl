@@ -9,7 +9,3 @@ taxonomies:
   type: types
 
 SectionPagesMenu: main
-
-params:
-  featured_image: /images/bg.jpg
-  disable_share: true

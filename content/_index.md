@@ -1,11 +1,11 @@
----
-title: "Liever de leven"
-description: "Mijn gedachtes en verzinsels over geestelijke gezondheid(zorg)"
-date: 2021-03-21
-draft: false
-featured_image: /images/bg.jpg
-disable_share: true
----
++++
+title = "Liever de leven"
+description = "Mijn gedachtes en verzinsels over geestelijke gezondheid(zorg)"
+date = 2021-03-21
+draft = false
+featured_image = "/images/bg.jpg"
+disable_share = true
++++
 
 Welkom op mijn website. Het is een 'work in progress' met daarop zowel mijn blog over leven met psychische problemen als (nieuw!!!) ook fictieve verhalen. 
 
