@@ -5,5 +5,5 @@ update-submodules:
 
 publish:
 	rm -rf ./public/
-	hugo --minify
+	hugo --minify --environment production
 	aws s3 sync ./public s3://lieverdeleven-nl
