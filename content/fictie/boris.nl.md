@@ -3,8 +3,8 @@ title = "Boris"
 description = "Bro bro"
 date = 2021-03-21
 draft = true
-types = [fictie]
-featured_image = /images/boris.jpg
+types = ["fictie"]
+featured_image = "/images/boris.jpg"
 disable_share = true
 +++
 
