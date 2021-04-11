@@ -1,7 +1,7 @@
 ---
 title: "test 1"
 date: 2021-03-21
-draft: true
+draft: false 
 types: [blog]
 disable_share: true
 ---

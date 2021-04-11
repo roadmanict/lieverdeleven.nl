@@ -1,10 +1,10 @@
----
-title: "Blog"
-description: Mijn gedachtes over geestelijke gezondheid, depressie, (niet) functioneren en huisdieren.
-date: 2018-08-16
-draft: false
-weight: 10
----
++++
+title = "Blog"
+description = "Mijn gedachtes over geestelijke gezondheid, depressie, (niet) functioneren en de rest van de leven."
+date = 2018-08-16
+draft = false
+weight = 10
++++
 
 Welkom op mijn blog-pagina! Op deze pagina deel ik mijn gedachtes over geestelijke gezondheid, depressie, (niet) functioneren en andere belangrijke levenszaken. Zelf heb ik de afgelopen jaren te maken gehad met terugkerende depressies en ik heb dus veel ervaring met (leren) leven met psychische problemen. 
 
