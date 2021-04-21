@@ -5,7 +5,7 @@ cd "$(dirname "$BASH_SOURCE")"
 git submodule init
 git submodule update --remote --merge
 
-export HUGO_VERSION=0.82.0
+export HUGO_VERSION=0.82.1
 export HUGO_LOCATION=./bin/${HUGO_VERSION}
 
 if [[ ! -d ${HUGO_LOCATION} ]]
